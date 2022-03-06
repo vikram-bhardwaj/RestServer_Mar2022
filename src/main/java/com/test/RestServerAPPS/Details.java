@@ -32,16 +32,16 @@ public class Details
 		empDetails1.setName("Vikram Bhardwaj");
 		empDetails1.setAge("29");
 		empDetails1.setGender("Male");
-		empDetails1.setAddress("Lakhisarai, Bihar");
-		empDetails1.setPhoneNumber("8305153512");
+		empDetails1.setAddress("Somewhere on earth");
+		empDetails1.setPhoneNumber("8305XXXXXX");
 		
 		EmpDetails empDetails2 = new EmpDetails();
 		empDetails2.setID("OURA12101072");
-		empDetails2.setName("Panda");
+		empDetails2.setName("Momina Mustehsan");
 		empDetails2.setAge("26");
 		empDetails2.setGender("Female");
-		empDetails2.setAddress("Karnataka");
-		empDetails2.setPhoneNumber("NA");
+		empDetails2.setAddress("in my dreams");
+		empDetails2.setPhoneNumber("8305XXXXXX");
 		
 		empDetail.add(empDetails1);
 		empDetail.add(empDetails2);
